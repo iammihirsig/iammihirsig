@@ -3,7 +3,7 @@
 # 🌟 About Me:
 
 <h3 align="left">Hi 👋, I'm Mihir Raj Singh</h3> 
-<h4 align="left">A Dedicated Tech Explorer | Open Source Enthusiast | Committed to Continuous Learning and Technological Advancements</h4>
+<h4 align="left">A Dedicated Tech Explorer Committed to Continuous Learning and Technological Advancements</h4>
 
 - 🔭 I’m currently working on **getting back on track & improving myself.**
 
