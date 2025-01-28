@@ -96,7 +96,7 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammihirsig&theme=vue-dark&hide_border=true" alt="iammihirsig's Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app?user=iammihirsig&theme=vue-dark" alt="iammihirsig's Streak" />
 </p>
 
 <p align="center">
