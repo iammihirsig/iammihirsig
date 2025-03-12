@@ -2,24 +2,24 @@
 
 <br>
 
-<h1 align="left">👋 Hi! I'm Mihir Raj Singh.</h1>
-<h4 align="left">A Dedicated Tech Explorer Committed to Continuous Learning and Technological Advancements</h4>
 
-- 🌱 I’m currently learning about **Javascript**.
+# **Hi, I'm Mihir Raj Singh!**  
 
-- 🔭 I’m currently working on **[practice projects using HTML & CSS in this repo](https://github.com/iammihirsig/HTML-CSS-Projects)**.
+- 🌱 **Currently Learning:** Deepening my knowledge in **JavaScript** to enhance frontend development skills.  
+- 🔭 **Current Project:** Working on **[HTML & CSS practice projects](https://github.com/iammihirsig/HTML-CSS-Projects)** to build responsive and accessible designs.  
+- 👯 **Looking to Collaborate On:**  
+  - **Technical content creation** – writing blogs, making YouTube videos, and sharing insights on **DSA & Frontend Development**.  
+- 📝 **Published Articles On:**  
+  - [Dev Community](https://dev.to/iammihirsig)  
+  - [Hashnode](https://iammihirsig.hashnode.dev/)  
+  - [Hackernoon](https://hackernoon.com/u/iammihirsig)  
+  - [Daily Dev](https://app.daily.dev/iammihirsig)  
+- 💬 **Let's Connect!** I enjoy discussing **tech, problem-solving, and career growth**. Always open to **meeting like-minded people** and exchanging knowledge.  
+- 📫 **Reach Out:** Feel free to email me at **[mihirrajsingh123@gmail.com](mailto:mihirrajsingh123@gmail.com)** or connect via **[bio.link/iammihirsig](https://bio.link/iammihirsig)**.  
 
-- 👯 I’m looking to collaborate on **content creation** such as **technical blogs**, **youtube videos**, and more around topics like **DSA & Frontend Development**.
+---
 
-- 📝 I regularly write **tech** & **life** related articles on:
-   - [Dev Community](https://dev.to/iammihirsig)
-   - [Hashnode](https://iammihirsig.hashnode.dev/)
-   - [Hackernoon](https://hackernoon.com/u/iammihirsig)
-   - [Daily Dev](https://app.daily.dev/)
-
-- 💬 Ask me about my **learnings** and **experiences** along this journey. I like to make **new friends** and **meet people**, so if you want to **connect** with me I am just a **text** away.
-
-- 📫 **Feel free to reach out via email at [Mail](mailto:mihirrajsingh123@gmail.com) or connect [Here](https://bio.link/iammihirsig)**
+This keeps it **clean, professional, and engaging**, making it appealing for recruiters, collaborators, and the tech community. Let me know if you'd like any refinements!
 
 <br>
 
