@@ -51,7 +51,7 @@
 <ol>
    <li>
       <h3> <a href="https://github.com/iammihirsig/HTML-CSS-Projects" target="_blank">HTML & CSS Projects (Ongoing)</a></h3>
-      <p>This repository is a collection of all the projects I’ve built while learning HTML and CSS. Each project is hosted live on GitHub Pages, so I highly recommend checking them out to see them in action. These are my initial projects, and while they don’t use JavaScript, they are fully responsive and designed with care. Beyond just coding and development, these projects have been foundational in teaching me valuable lessons about design, problem-solving, and the importance of building strong fundamentals. They’ve truly been the building blocks of my journey into web development.</p>
+      <p>TThis repository showcases the projects I built while learning HTML & CSS. Each project is live on GitHub Pages, fully responsive, and crafted with attention to detail. While they don’t use JavaScript, they’ve been instrumental in strengthening my design skills, problem-solving approach, and core web development fundamentals.</p>
    </li>
 </ol>
 
