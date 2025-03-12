@@ -17,10 +17,6 @@
 - 💬 **Let's Connect!** I enjoy discussing **tech, problem-solving, and career growth**. Always open to **meeting like-minded people** and exchanging knowledge.  
 - 📫 **Reach Out:** Feel free to email me at **[mihirrajsingh123@gmail.com](mailto:mihirrajsingh123@gmail.com)** or connect via **[bio.link/iammihirsig](https://bio.link/iammihirsig)**.  
 
----
-
-This keeps it **clean, professional, and engaging**, making it appealing for recruiters, collaborators, and the tech community. Let me know if you'd like any refinements!
-
 <br>
 
 ## 💻 Tech Stack:
