@@ -31,10 +31,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  </a> -->
+<!--   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -45,21 +45,22 @@
   </a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>
-  </a>
+  </a> -->
 
   <!-- Backend & Databases -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  
+ <!--  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-  </a>
+  </a> -->
 
   <!-- Programming Languages -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -71,9 +72,9 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
-  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
-  </a>
+  </a> -->
 
   <!-- Development Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -90,9 +91,9 @@
   </a>
 
   <!-- Platforms & CMS -->
-  <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" alt="wordpress" width="40" height="40"/>
-  </a>
+  </a> -->
 
   <!-- Hosting & DevOps -->
   <a href="https://netlify.com/" target="_blank" rel="noreferrer">
