@@ -149,8 +149,10 @@
 
 <p align="center">
   <a href="https://bio.link/iammihirsig" target="_blank">  
-    <img src="https://github.com/user-attachments/assets/67b6e87f-ba82-4db9-9904-39f27965283a" alt="BioLink" width="50" />  
-  </a> 
+    <img src="https://github.com/user-attachments/assets/67b6e87f-ba82-4db9-9904-39f27965283a" alt="BioLink" width="50" />
+  </a>
+</p>
+
 
 <!--
   <a href="https://twitter.com/iammihirsig" target="_blank">
