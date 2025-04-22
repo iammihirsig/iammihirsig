@@ -5,10 +5,10 @@
 
 # **Hi, I'm Mihir Raj Singh!**  
 
-- 🌱 **Currently Learning:** Deepening my knowledge in **JavaScript** to enhance frontend development skills.  
-- 🔭 **Current Project:** Working on **[HTML & CSS practice projects](https://github.com/iammihirsig/HTML-CSS-Projects)** to build responsive and accessible designs.  
-- 👯 **Looking to Collaborate On:**  
-  - **Technical content creation** – writing blogs, making YouTube videos, and sharing insights on **DSA & Frontend Development**.  
+- 🌱 **Currently Learning:** Currently learning **full-stack web development (MERN stack)** while consistently practicing **Data Structures & Algorithms**.
+- 🔭 **Ongoing Project:**  Coming Soon!
+- 👯 **Looking to Collaborate On:** Technical content creation – writing blogs, making YouTube videos, and sharing insights on **DSA & Full Stack Development**.
+
 - 📝 **Published Articles On:**  
   - [Dev Community](https://dev.to/iammihirsig)  
   - [Hashnode](https://iammihirsig.hashnode.dev/)  
@@ -121,12 +121,17 @@
 
 
 ## 🐧 Projects
+
+🔜 **Coming soon!** — Stay tuned for exciting full-stack projects in the works! 🚀
+<!--
 <ol>
    <li>
       <h3> <a href="https://github.com/iammihirsig/HTML-CSS-Projects" target="_blank">HTML & CSS Projects (Ongoing)</a></h3>
       <p>TThis repository showcases the projects I built while learning HTML & CSS. Each project is live on GitHub Pages, fully responsive, and crafted with attention to detail. While they don’t use JavaScript, they’ve been instrumental in strengthening my design skills, problem-solving approach, and core web development fundamentals.</p>
    </li>
 </ol>
+-->
+
 
 
 <br>
@@ -143,6 +148,11 @@
 ## 🌐 Socials:
 
 <p align="center">
+  <a href="https://bio.link/iammihirsig" target="_blank">  
+    <img src="https://github.com/user-attachments/assets/67b6e87f-ba82-4db9-9904-39f27965283a" alt="BioLink" width="50" />  
+  </a> 
+
+<!--
   <a href="https://twitter.com/iammihirsig" target="_blank">
     <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/twitter-x.svg" alt="Twitter" width="40" />
   </a>
@@ -153,6 +163,8 @@
     <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/youtube.svg" alt="YouTube" width="40" />
   </a>
 </p>
+-->
+
 
 <br>
 
