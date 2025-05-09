@@ -5,7 +5,7 @@
 
 # **Hi, I'm Mihir Raj Singh!**  
 
-- 🌱 **Currently Learning:** Currently learning **full-stack web development (MERN stack)** while consistently practicing **Data Structures & Algorithms**.
+- 🌱 **Currently Learning:** Currently learning **Wordpress Development** while consistently practicing **Data Structures & Algorithms**.
 - 🔭 **Ongoing Project:**  Coming Soon!
 - 👯 **Looking to Collaborate On:** Technical content creation – writing blogs, making YouTube videos, and sharing insights on **DSA & Full Stack Development**.
 
