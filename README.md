@@ -4,7 +4,7 @@
 
 # **Hi, I'm Mihir Raj Singh!**
 
-- 🌱 **Currently Learning:** MERN Stack Development  
+- 🚧 **Currently Learning:** MERN Stack Development  
 - 🛠️ **Currently Working On:** [Self-Driven MERN Stack Internship](https://github.com/iammihirsig/Self-Driven-MERN-Stack-Internship)  
 - 🔭 **Ongoing Project:** Coming Soon!  
 - 👯 **Looking to Collaborate On:** Technical content, open-source contributions, career growth  
@@ -56,8 +56,8 @@
 
 | Project                               | Description                                      | Live Preview                                               | GitHub Repo                                                                 |
 |---------------------------------------|--------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------------------------|
-| 📰 Fake News Detection (Archived)     | ML app to detect fake news (college project)     | [Live](https://iammihirsig-fake-news-detector.streamlit.app/)    | [GitHub](https://github.com/iammihirsig/Fake-News-Detection)               |
-| 🧮 Loan Calculator App (Archived)     | Simple responsive loan calculator (college)      | [Live](https://iammihirsig.github.io/loan-calculator-app/#/home)    | [GitHub](https://github.com/iammihirsig/loan-calculator-app)               |
+| 📰 Fake News Detection (Archived)     | ML app to detect fake news using logistic regression     | [Live](https://iammihirsig-fake-news-detector.streamlit.app/)    | [GitHub](https://github.com/iammihirsig/Fake-News-Detection)               |
+| 🧮 Loan Calculator App (Archived)     | Simple responsive loan/EMI calculator built with React    | [Live](https://iammihirsig.github.io/loan-calculator-app/#/home)    | [GitHub](https://github.com/iammihirsig/loan-calculator-app)               |
 
 </div>
 
@@ -89,13 +89,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=iammihirsig&theme=vue-dark" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iammihirsig&theme=vue-dark&show_icons=true&count_private=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammihirsig&layout=compact&theme=vue-dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iammihirsig&theme=solarized" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iammihirsig&theme=solarized" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iammihirsig&theme=solarized" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iammihirsig&theme=solarized" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iammihirsig&theme=solarized&utcOffset=8" />
 </p>
 
 ---
