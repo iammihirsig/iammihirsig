@@ -59,6 +59,7 @@
 |---------------------------------------|--------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------------------------|
 | 📰 Fake News Detection (Archived)     | ML app to detect fake news using logistic regression     | [Live](https://iammihirsig-fake-news-detector.streamlit.app/)    | [GitHub](https://github.com/iammihirsig/Fake-News-Detection)               |
 | 🧮 Loan Calculator App (Archived)     | Simple responsive loan/EMI calculator built with React    | [Live](https://iammihirsig.github.io/loan-calculator-app/#/home)    | [GitHub](https://github.com/iammihirsig/loan-calculator-app)               |
+| 🖥 ToDeskop UI Website     | Industry level UI website design made in tailwind    | [Live](https://iammihirsig.github.io/ToDesktop/)    | [GitHub](https://github.com/iammihirsig/ToDesktop)               |
 
 </div>
 
