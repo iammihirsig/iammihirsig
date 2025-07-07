@@ -85,7 +85,12 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammihirsig" alt="iammihirsig" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=iammihirsig" alt="GitHub Profile Trophy" />
+  </a>
+</p>
+
 
 ---
 
