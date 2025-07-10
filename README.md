@@ -6,7 +6,7 @@
 
 - 🚧 **Currently Learning:** MERN Stack Development  
 - 🛠️ **Currently Working On:** [Self-Driven MERN Stack Internship](https://github.com/iammihirsig/Self-Driven-MERN-Stack-Internship)  
-- 🔭 **Ongoing Project:** Coming Soon!  
+- 🔭 **Ongoing Project:** [Personal Portfolio](https://github.com/iammihirsig/Portfolio)  
 - 👯 **Looking to Collaborate On:** Technical content, open-source contributions, career growth  
 - 📝 **Published Articles On:**  
   - [Dev Community](https://dev.to/iammihirsig)  
