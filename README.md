@@ -97,6 +97,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iammihirsig&theme=solarized-light&border_radius=10" alt="GitHub Streak" /></a>
+</p>
+
+<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iammihirsig&theme=solarized" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iammihirsig&theme=solarized" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iammihirsig&theme=solarized" />
