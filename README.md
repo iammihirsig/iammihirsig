@@ -1,19 +1,21 @@
-![00](https://github.com/user-attachments/assets/aea18f63-0db5-458f-85c4-b436b44a5548)
+<div align="center">
+  <img  width="320" src="https://github.com/user-attachments/assets/079ca700-d3e1-411f-9a2a-db911deac068" alt="00" />
+</div>
 
+# **👋 Hi, I'm Mihir Raj Singh!**
+I'm a self-taught MERN Stack Developer with a passion for clean, scalable code and C++-based DSA. I believe in building publicly, using AI-enhanced workflows, and contributing to meaningful open source projects.
 
-# **Hi, I'm Mihir Raj Singh!**
+💡 **Fun Fact:** I started my journey with just curiosity and zero roadmap — now I'm building real things and showing up daily.
 
-- 🚧 **Currently Learning:** MERN Stack Development  
-- 🛠️ **Currently Working On:** [Self-Driven MERN Stack Internship](https://github.com/iammihirsig/Self-Driven-MERN-Stack-Internship)  
-- 🔭 **Ongoing Project:** [Personal Portfolio](https://github.com/iammihirsig/Portfolio)  
-- 👯 **Looking to Collaborate On:** Technical content, open-source contributions, career growth  
-- 📝 **Published Articles On:**  
-  - [Dev Community](https://dev.to/iammihirsig)  
-  - [Hashnode](https://iammihirsig.hashnode.dev/)  
-  - [Hackernoon](https://hackernoon.com/u/iammihirsig)  
-  - [Daily Dev](https://app.daily.dev/iammihirsig)  
-- 💬 **Let's Connect!** Love chatting about tech, problem-solving, and personal growth  
-- 📫 **Reach Out:** [mihirrajsingh123@gmail.com](mailto:mihirrajsingh123@gmail.com) | [bio.link/iammihirsig](https://bio.link/iammihirsig)
+---
+## 🚧 Currently...
+
+- 🔁 **Learning:** HTML & CSS refresh
+- 🚀 **Ongoing Project:** [Portfolio Website](https://github.com/iammihirsig/Portfolio)
+- 💼 **Open to:** Full-time • Freelance • Remote • Collabs • Dev communities
+- 🧠 **Writing:** Occasionally post on Dev.to & Hashnode when I find time
+
+📫 **Reach Out:** [mihirrajsingh123@gmail.com](mailto:mihirrajsingh123@gmail.com) • [bio.link/iammihirsig](https://bio.link/iammihirsig)
 
 ---
 
@@ -37,29 +39,21 @@
 
 ---
 
-## 💼 Experience
+## 🧑‍💻 Experience & Contributions
+
+### 📂 Open Source Contributions  
+- 🚧 *Coming Soon:* Actively preparing to contribute to impactful open-source projects.  
+- ⏳ Until then, check out the selected project work below ⬇️
+
+### 🚀 Projects & Client-Facing Work
 
 <div align="center">
 
-| Type                        | Role                          | Timeline           | Details / Proof                                                                 |
-|-----------------------------|-------------------------------|--------------------|----------------------------------------------------------------------------------|
-| 📦 Self-Driven MERN Internship | Full Stack Developer Intern     | June 2025 – Present | [GitHub Repo ↗](https://github.com/iammihirsig/Self-Driven-MERN-Stack-Internship) |
-
-</div>
-
-
----
-
-## 🚀 Projects
-
-<div align="center">
-
-| Project                               | Description                                      | Live Preview                                               | GitHub Repo                                                                 |
-|---------------------------------------|--------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------------------------|
-| **🖥 ToDeskop UI Website**     | Industry level UI website design made in tailwind    | [Live](https://iammihirsig.github.io/ToDesktop/)    | [GitHub](https://github.com/iammihirsig/ToDesktop)               |
-| **📰 Fake News Detection** *(Archived)*     | ML app to detect fake news using logistic regression     | [Live](https://iammihirsig-fake-news-detector.streamlit.app/)    | [GitHub](https://github.com/iammihirsig/Fake-News-Detection)               |
-| **🧮 Loan Calculator App** *(Archived)*     | Simple responsive loan/EMI calculator built with React    | [Live](https://iammihirsig.github.io/loan-calculator-app/#/home)    | [GitHub](https://github.com/iammihirsig/loan-calculator-app)               |
-
+| Type                     | Project / Role                        | Description                                                                 | Links |
+|--------------------------|---------------------------------------|-----------------------------------------------------------------------------|--------|
+| 🖥 UI Design              | ToDesktop UI Website                  | Professional-grade UI clone built with Tailwind CSS                         | [Live](https://iammihirsig.github.io/ToDesktop/) / [Code](https://github.com/iammihirsig/ToDesktop) |
+| 🤖 ML App *(Archived)*   | Fake News Detection                   | Machine Learning app using logistic regression to detect misinformation     | [Live](https://iammihirsig-fake-news-detector.streamlit.app/) / [Code](https://github.com/iammihirsig/Fake-News-Detection) |
+| 💰 Tool *(Archived)*     | Loan Calculator App                   | Simple and responsive EMI calculator built with React                       | [Live](https://iammihirsig.github.io/loan-calculator-app/#/home) / [Code](https://github.com/iammihirsig/loan-calculator-app) |
 
 </div>
 
@@ -120,3 +114,8 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=iammihirsig&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+
+<div align="center">
+  <img width="120" src="https://github.com/user-attachments/assets/ce3dfb86-957e-478a-9ca7-b5111c9f1858" alt="minion" />
+</div>
+
