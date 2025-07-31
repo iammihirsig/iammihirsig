@@ -1,6 +1,5 @@
-<img width="2560" alt="MY README" src="https://github.com/user-attachments/assets/7b093dd9-0c47-484f-ad5d-55654685c52e">
+![00](https://github.com/user-attachments/assets/aea18f63-0db5-458f-85c4-b436b44a5548)
 
-<br>
 
 # **Hi, I'm Mihir Raj Singh!**
 
